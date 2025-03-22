@@ -21,5 +21,4 @@ Avaliação de Modelos: Comparação do desempenho dos modelos com base em métr
 - Quarto e R Studio: Utilizados para a elaboração do relatório final.
 
 ### Equipe:
-Ana V. R. Araújo
-Helio V. R. Neto
+Ana V. R. Araújo e Helio V. R. Neto
