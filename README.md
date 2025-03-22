@@ -4,7 +4,7 @@
 Este repositório contém o relatório e os códigos desenvolvidos para o trabalho da disciplina de Introdução à Ciência de Dados, com foco na classificação de ocorrências aeronáuticas.
 
 ### Descrição do Projeto
-O objetivo deste trabalho é classificar ocorrências aeronáuticas com base em dados históricos, utilizando técnicas de Machine Learning para identificar padrões e prever categorias de eventos. O projeto inclui:
+O objetivo deste trabalho é classificar ocorrências aeronáuticas com base em dados, utilizando técnicas de Machine Learning para identificar padrões e prever categorias de eventos. O projeto inclui:
 
 Análise Exploratória de Dados (EDA): Exploração e visualização dos dados para entender as características do dataset.
 
